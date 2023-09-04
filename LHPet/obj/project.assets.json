@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\LHPet\\LHPet.csproj",
+      "projectUniqueName": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\sp3-ativ5\\LHPet\\LHPet.csproj",
       "projectName": "LHPet",
-      "projectPath": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\LHPet\\LHPet.csproj",
+      "projectPath": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\sp3-ativ5\\LHPet\\LHPet.csproj",
       "packagesPath": "C:\\Users\\pegoraro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\LHPet\\obj\\",
+      "outputPath": "C:\\Users\\pegoraro\\OneDrive - Educacional\\Documents\\Git\\MVC\\sp3-ativ5\\LHPet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pegoraro\\AppData\\Roaming\\NuGet\\NuGet.Config"
