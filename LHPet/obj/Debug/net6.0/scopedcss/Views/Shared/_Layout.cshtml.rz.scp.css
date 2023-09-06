@@ -46,3 +46,9 @@ button.accept-policy[b-00y05jfcx1] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+h1[b-00y05jfcx1]
+{
+  text-align: center;
+  color: blue;
+}
